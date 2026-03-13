@@ -1,9 +1,13 @@
 server:
   port: 8081
 spring:
+  profiles:
+    active: mongodb
   data:
     mongodb:
-      uri: mongodb://localhost:27017/customerdb
+      database: customerdb
+      port: '27017'
+      host: localhost
 logging:
   level:
     com.bank.customer: DEBUG
