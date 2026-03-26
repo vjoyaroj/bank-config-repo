@@ -6,7 +6,7 @@ Repositorio de configuracion centralizada (`.properties`) consumida por Spring C
 
 Diagrama de microservicos completo
 
-<img width="670" height="450" alt="image" src="https://github.com/user-attachments/assets/66e1f822-3110-4db5-bb85-2bad04884246" />
+<img width="670" height="450" alt="image" src="https://github.com/user-attachments/assets/e4505c9e-768d-4937-ab64-778c4b129cb2" />
 
 ## Endpoints
 No aplica (repositorio de configuraciones).
